@@ -8,6 +8,8 @@
   - Allele frequency of variant from ExAC
   - Allele frequency of variant per ethnicity from ExAC
   - VEP annotations of variant from ExAC
+  
+Output table is dumped to csv file: https://github.com/clocode/tempus_challenge/blob/master/Challenge_data_annotated.csv
 
 A few things to note:
   - The input VCF file could be multi-allelic. In the output table, each allele has been annotated independently; there is one row per allele.
