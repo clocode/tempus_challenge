@@ -1,6 +1,6 @@
 # Tempus Challenge
 
-This notebook parses a VCF file and annotates variants in the file with:
+[This notebook](https://github.com/clocode/tempus_challenge/blob/master/Challenge.ipynb) parses a VCF file and annotates variants in the file with:
   - Variant type
   - Read depth at site of the variation
   - Number of reads supporting the variant
